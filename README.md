@@ -55,7 +55,7 @@ Rough layout of the ground side and air side systems:
 ![airandgroundside](gallery/airandgroundside.png)
 
 Wokwi simulation because we didnt have the parts in hand by then :(  
-![wokwi](gallery/wokwi.jpeg)
+![wokwi](gallery/wokwi.jpg)
 
 Initial testing of the nrf24 communication system:  
 [initial_wireless_system_testing](gallery/initial_wireless_system_testing.mp4)
